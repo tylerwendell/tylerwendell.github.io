@@ -2,8 +2,8 @@
 title: t3r
 # email: t3r_dev@gmail.com
 description: My developer portfolio
-# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-# url: # the base hostname & protocol for your site
+# baseurl: "/tylerwendell.github.io" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author: Tyler
 # street_address: 1234 Somewhere Road
 # city: Nashville
