@@ -1,7 +1,10 @@
 # site settings
 title: t3r
 # email: t3r_dev@gmail.com
-description: My developer portfolio
+description: '<a href="https://github.com/tylerwendell" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub"> Personal</a>
+<a href="https://github.com/t3r-cni" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub"> Work</a>
+<a href="assets/files/resume.pdf" class="icon alt fa-solid fa-file-lines" target="_blank" rel="noopener noreferrer"><a href="assets/files/resume.pdf" type="application/pdf" width="100%" height="600px"> Resume</a></a>
+'
 # baseurl: "/tylerwendell.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Tyler

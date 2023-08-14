@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Tyler Wendell'
+landing-title: 'Tyler <i class="fa-solid fa-code fa-shake" style="color: #0f6b43;"></i> Wendell'
 description: null
 image: null
 author: null
