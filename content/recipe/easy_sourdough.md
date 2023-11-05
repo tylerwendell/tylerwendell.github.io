@@ -1,12 +1,84 @@
+---
+title: "Easy_sourdough"
+subtitle: ""
+date: 2023-11-04T22:46:23-04:00
+lastmod: 2023-11-04T22:46:23-04:00
+draft: true
+author: ""
+authorLink: ""
+description: ""
+license: ""
+images: []
+
+tags: []
+categories: []
+
+featuredImage: ""
+featuredImagePreview: ""
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  maxShownLines: 50
+math:
+  enable: false
+  # ...
+mapbox:
+  # ...
+share:
+  enable: true
+  # ...
+comment:
+  enable: true
+  # ...
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
+seo:
+  images: []
+  # ...
+---
+
 # Easy Sourdough Bread Recipe
 
 A simple sourdough bread recipe that can be made with minimal effort. The perfect recipe for home bakers that want a healthy loaf of bread to serve with dinner or for beginner sourdough bakers looking to get their hands into bread baking.
 
 [Source](https://littlespoonfarm.com/sourdough-bread-recipe-beginners-guide/)
 
+- [Easy Sourdough Bread Recipe](#easy-sourdough-bread-recipe)
 - [Ingredients](#ingredients)
   - [Sample Schedule](#sample-schedule)
   - [Instructions](#instructions)
+    - [Feed Your Sourdough Starter](#feed-your-sourdough-starter)
+    - [Make the Dough](#make-the-dough)
+    - [Stretch and Fold](#stretch-and-fold)
+    - [Bulk Fermentation](#bulk-fermentation)
+    - [Shape and Second Rise](#shape-and-second-rise)
+    - [Score and Bake](#score-and-bake)
+    - [Cool](#cool)
+    - [Store](#store)
+    - [Freeze](#freeze)
+    - [Serve](#serve)
   - [Notes](#notes)
   - [Nutrition](#nutrition)
 - [How to Make Easy Sourdough Bread: Details Instructions](#how-to-make-easy-sourdough-bread-details-instructions)
@@ -202,3 +274,4 @@ Let the dough rise overnight for an early morning bake or mix it in the morning 
 - **4:00 pm**: Shape the dough, place it onto a piece of parchment paper, and then into a proofing bowl. Cover the bowl and let it rise for 1 hour.
 - **4:30 pm**: While the dough is still rising, place your Dutch oven into the oven and preheat at 450°F (232°C) for 30 minutes.
 - **5:00 pm**: Bake covered for 20 minutes, uncover and bake an additional 25-30 minutes.
+
