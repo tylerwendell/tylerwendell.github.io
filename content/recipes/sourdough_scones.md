@@ -1,5 +1,5 @@
 ---
-title: "Chocolate Chip Sourdough Scones"
+title: "Chocolate Chip Scones"
 subtitle: ""
 date: 2023-11-04T22:48:14-04:00
 lastmod: 2023-11-04T22:48:14-04:00
@@ -11,13 +11,13 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["sourdough"]
 
 featuredImage: ""
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromSearch: true
 twemoji: false
 lightgallery: true
 ruby: true

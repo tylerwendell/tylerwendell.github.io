@@ -1,5 +1,5 @@
 ---
-title: "Sourdough Cinnamon Rolls"
+title: "Cinnamon Rolls"
 subtitle: ""
 date: 2023-11-04T23:26:35-04:00
 lastmod: 2023-11-04T23:26:35-04:00
@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["sourdough"]
 
 featuredImage: ""
 featuredImagePreview: ""

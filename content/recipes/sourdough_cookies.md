@@ -1,5 +1,5 @@
 ---
-title: "SOURDOUGH CHOCOLATE CHIP COOKIES RECIPE"
+title: "Chocolate Chip Cookie"
 subtitle: ""
 date: 2023-11-04T23:05:15-04:00
 lastmod: 2023-11-04T23:05:15-04:00
@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["sourdough"]
 
 featuredImage: ""
 featuredImagePreview: ""

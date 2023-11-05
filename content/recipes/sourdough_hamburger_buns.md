@@ -1,5 +1,5 @@
 ---
-title: "Sourdough Hamburger Buns"
+title: "Hamburger Buns"
 subtitle: ""
 date: 2023-11-05T15:58:43-05:00
 lastmod: 2023-11-05T15:58:43-05:00
@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: [sourdough]
 
 featuredImage: ""
 featuredImagePreview: ""
