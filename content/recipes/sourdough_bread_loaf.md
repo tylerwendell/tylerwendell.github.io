@@ -1,5 +1,5 @@
 ---
-title: "Honey Wheat Sourdough Sandwich Bread"
+title: "Honey Wheat Sandwich Bread"
 subtitle: ""
 date: 2023-11-04T22:48:01-04:00
 lastmod: 2023-11-04T22:48:01-04:00
@@ -11,13 +11,13 @@ license: ""
 images: []
 
 tags: []
-categories: []
+categories: ["sourdough"]
 
 featuredImage: ""
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromSearch: true
 twemoji: false
 lightgallery: true
 ruby: true
