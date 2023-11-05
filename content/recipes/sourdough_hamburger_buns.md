@@ -11,13 +11,13 @@ license: ""
 images: []
 
 tags: []
-categories: [sourdough]
+categories: ["sourdough"]
 
 featuredImage: ""
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromSearch: true
 twemoji: false
 lightgallery: true
 ruby: true
